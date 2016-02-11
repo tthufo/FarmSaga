@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8105630F-7A3B-4180-8BF3-3B205D9E211B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WhiteTile</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E486059D-42E8-4DF4-845F-48C98B4F9DEF</key>
+		<string>svn://remote.libre.com.vn/librenetwork</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>outsource/WhiteTile/WhiteTile.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E486059D-42E8-4DF4-845F-48C98B4F9DEF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>E486059D-42E8-4DF4-845F-48C98B4F9DEF</key>
+		<string>svn://remote.libre.com.vn/librenetwork</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://remote.libre.com.vn/librenetwork/outsource/WhiteTile/WhiteTile.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E486059D-42E8-4DF4-845F-48C98B4F9DEF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E486059D-42E8-4DF4-845F-48C98B4F9DEF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>librenetwork</string>
+		</dict>
+	</array>
+</dict>
+</plist>
